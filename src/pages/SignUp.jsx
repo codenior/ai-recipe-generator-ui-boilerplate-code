@@ -4,6 +4,7 @@ import { useAuth } from '../context/AuthContext';
 import toast from 'react-hot-toast';
 import { ChefHat, Mail, Lock, User } from 'lucide-react';
 
+
 const SignUp = () => {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');

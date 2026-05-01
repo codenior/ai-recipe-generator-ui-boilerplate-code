@@ -3,6 +3,7 @@ import { dummyUser } from '../data/dummyData';
 
 const AuthContext = createContext(null);
 
+
 export const useAuth = () => {
     const context = useContext(AuthContext);
     if (!context) {

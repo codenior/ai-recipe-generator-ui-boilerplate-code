@@ -15,6 +15,7 @@ import ShoppingList from './pages/ShoppingList';
 import Settings from './pages/Settings';
 import MealPlanner from './pages/MealPlanner';
 
+
 function App() {
   return (
     <AuthProvider>

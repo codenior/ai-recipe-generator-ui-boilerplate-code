@@ -5,6 +5,7 @@ export const dummyUser = {
     created_at: '2024-01-15T10:30:00Z'
 };
 
+
 export const dummyPreferences = {
     user_id: 1,
     dietary_restrictions: ['Vegetarian'],
